@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "CHAMA-MD=2FAmmJBB#Q_b0IZSrnJWUMKP5aHpzoCDi7bWp7g6_m7f-sJBg5lg",
       "required": true,
       "value": ""
     },  
